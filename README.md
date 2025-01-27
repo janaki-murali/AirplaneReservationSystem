@@ -1,6 +1,6 @@
 # Airline Reservation System GUI
 
-This project is a **Graphical User Interface (GUI)** application for an Airline Reservation System. It allows users to search for flights, view flight details, and book tickets with passenger information. The application is built with **Python** and integrates with a **MySQL database** for backend data management.
+This project is a **Graphical User Interface (GUI)** application for an Airline Reservation System. It allows the users to search for flights, view flight details, and book tickets with passenger information. The application is built with **Python** and integrates with a **MySQL database** for backend data management.
 
 ---
 
