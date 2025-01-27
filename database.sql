@@ -84,7 +84,7 @@ INSERT INTO PASSENGER (PASSENGER_ID, P_NAME, PASSPORT_NUMBER, ADDRESS, EMAIL, PH
 ('P001', 'John Doe', 'P123456789', '123 Main St, New York, USA', 'john.doe@example.com', 1234567890, 30),
 ('P002', 'Jane Smith', 'P987654321', '456 Elm St, Los Angeles, USA', 'jane.smith@example.com', 9876543210, 28),
 ('P003', 'Alice Johnson', 'P111111111', '789 Oak St, Chicago, USA', 'alice.johnson@example.com', 5551234567, 35),
-('P004', 'Bob Brown', 'P222222222', '321 Pine St, Dallas, USA', 'bob.brown@example.com', 7778889999, 32),
+('P004', 'Mike Brown', 'P222222222', '321 Pine St, Dallas, USA', 'bob.brown@example.com', 7778889999, 32),
 ('P005', 'Charlie Davis', 'P333333333', '901 Maple St, Denver, USA', 'charlie.davis@example.com', 3334445555, 29),
 ('P006', 'Emily White', 'P444444444', '234 Cedar St, San Francisco, USA', 'emily.white@example.com', 4445556666, 27),
 ('P007', 'Michael Green', 'P555555555', '567 Spruce St, Seattle, USA', 'michael.green@example.com', 5556667777, 33),
